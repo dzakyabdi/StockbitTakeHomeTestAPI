@@ -16,6 +16,7 @@ public class fakerapiNo2 {
                 .then().log().all().assertThat().statusCode(200).extract().response().asString();
 
         JsonPath getCompanies = JsonPath.from(getCompaniesResponse);
+
         // answer for question No. 2
         Assert.assertEquals(getCompanies.getInt("company.size()"), numberOfData, "Incorrect company count in getCompanyAPI");
     }
