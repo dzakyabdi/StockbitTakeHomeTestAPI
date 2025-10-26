@@ -20,6 +20,7 @@ public class fakerapiNo3 {
 
         for(CompanyDetailPojo companyDetail: getCompaniesResponse.getCompany()){
             System.out.println(companyDetail.getId());
+
             // answer for question No. 3a
             Assert.assertNotNull(companyDetail.getId(), "Company ID is null");
         }
