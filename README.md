@@ -34,6 +34,8 @@ The following dependencies are required for this project:
 🎥 Automation Run Recording
 
 You can watch a recording of the automation running locally here:
+Soal No.2: https://drive.google.com/file/d/10fnks2eULUEl_E0_b102EcK8o0ydBg7N/view?usp=sharing
+Soal No.3: https://drive.google.com/file/d/1-AmDmf-SEIe3YYAE0G56zhVqALyCp2eb/view?usp=sharing
 
 
 
