@@ -39,6 +39,9 @@ Soal No.2: https://drive.google.com/file/d/10fnks2eULUEl_E0_b102EcK8o0ydBg7N/vie
 
 Soal No.3: https://drive.google.com/file/d/1-AmDmf-SEIe3YYAE0G56zhVqALyCp2eb/view?usp=sharing
 
+When I run the automation, I usually get a 500 or 502 response. It looks like the service isn’t being maintained properly or has already been sunset.
+
+
 
 
 
